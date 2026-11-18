@@ -36,6 +36,8 @@ I'm a BIT undergraduate passionate about building practical software application
 - Banking Application
 - RideFlow API
 - BuildZync
+- Smart Recruitment application
+- Persanal digital vault
 
 ### 🎯 Areas of Interest
 
